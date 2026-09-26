@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Gia Hung 👋</h1>
 
-<h3>Khưu Huỳnh Gia Hưng</h3>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=00BFA6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Research+%7C+AI+Engineering;Computer+Vision+%7C+Decision+Intelligence;UAV+Localization+%7C+Verified+Analytics" alt="AI Research | AI Engineering | Computer Vision | Decision Intelligence" />
 
