@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Gia Hung 👋</h1>
+<h1>Hi, I'm Hung (Charles)👋</h1>
 
 
 
