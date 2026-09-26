@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Khuu Huynh Gia Hung — Engineering AI that earns trust" width="100%" />
-</p>
-
-<p align="center">
-  <a href="mailto:giahung170806@gmail.com"><img alt="Email Gia Hung" src="https://img.shields.io/badge/Email-0D1B35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/h%C6%B0ng-kh%C6%B0u-31450531b"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0D1B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <b>AI engineering</b> &nbsp;·&nbsp; <b>Computer vision</b> &nbsp;·&nbsp; <b>Reliable backend systems</b><br />
-  Ho Chi Minh City, Vietnam &nbsp;|&nbsp; B.Sc. Data Science &amp; AI, HCMUT · expected 2028
-</p>
+<div align="center">
+  <h1>Hi, I'm Gia Hung 👋</h1>
+  <p><strong>AI Engineering · Computer Vision · Reliable Software</strong></p>
+  <p>I turn complex AI problems into systems that can be measured and trusted.</p>
+  <p>
+    <a href="mailto:giahung170806@gmail.com"><img alt="Email Gia Hung" src="https://img.shields.io/badge/Email-183153?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/h%C6%B0ng-kh%C6%B0u-31450531b"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-183153?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+  <p>📍 Ho Chi Minh City, Vietnam &nbsp;·&nbsp; 🎓 Data Science &amp; AI @ HCMUT, expected 2028</p>
+</div>
 
 ---
 
-### Hello, I'm Gia Hung 👋
+### About me
 
 I build AI systems that can be **measured, checked, and trusted**. My work spans computer vision for GNSS-denied UAV localization, grounded analytics over business data, and safety-focused software. I am a third-year Data Science and Artificial Intelligence student at **Ho Chi Minh City University of Technology (HCMUT)**, working toward AI and Software Engineering roles.
 
@@ -67,4 +64,4 @@ Built supporting infrastructure for route-deviation monitoring and driver–pass
 
 I am interested in **AI research and Software Engineering** work where careful evaluation matters. Reach me by [email](mailto:giahung170806@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/h%C6%B0ng-kh%C6%B0u-31450531b).
 
-<!-- To show this README on your profile, create a public GitHub repository whose name exactly matches your username. Place README.md at its root and the banner at assets/profile-banner.svg. The linked Gladiators and VoiceGo repositories are project/team repositories; do not rename their owners to your own username. -->
+<!-- To show this README on your profile, place it at the root of your public repository named exactly like your GitHub username. The linked Gladiators and VoiceGo repositories are project/team repositories; do not rename their owners to your own username. -->
