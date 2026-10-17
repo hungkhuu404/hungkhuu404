@@ -62,6 +62,7 @@ Applying AI engineering to a business connecting product sourcing, print-on-dema
 ### 🚀 Selected work
 
 #### 🛰️ POLARIS — localization where GPS cannot help
+*The research code remains private. The manuscript has been submitted to the Journal of Intelligent and Robotic Systems (Q1)*
 
 **Research team lead & algorithm lead** · 7-person team · Jan 2025–present
 
@@ -73,7 +74,7 @@ Leading a computer-vision pipeline for UAV localization in GNSS-denied environme
 | Pose availability | 50 / 60 | **60 / 60** |
 | Mean positional error | 0.2473 m | **0.0110 m** |
 
-*Research code remains private. Targeting publication in a Q1 journal after stable field validation; the manuscript is in preparation.*
+
 
 #### 🏆 [Gladiators — verifiable AI analytics](https://github.com/hanestuamante/Gladiators)
 
