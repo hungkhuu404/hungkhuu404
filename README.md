@@ -18,30 +18,23 @@
 
 ---
 
-### 🕹️ My contribution arcade
+## Contributions
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungkhuu404/hungkhuu404/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hungkhuu404/hungkhuu404/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/hungkhuu404/hungkhuu404/output/pacman-contribution-graph.svg" alt="Pac-Man playing on Gia Hung's GitHub contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions.svg" />
+  <img src="assets/contributions.svg" alt="Gia Hung's public GitHub contribution calendar; green shades indicate daily activity" width="100%" />
 </picture>
 </div>
 
-### 🔥 GitHub streak
+## GitHub streak
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=hungkhuu404&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=E900FF&amp;fire=E900FF&amp;currStreakLabel=E900FF&amp;sideNums=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E&amp;timezone=Asia%2FHo_Chi_Minh&amp;card_width=650" alt="GitHub contribution streak for hungkhuu404" />
 </div>
 
-### ✦ Things I've shipped and measured
-
-| 🛰️ **POLARIS** | 🏆 **Gladiators** | 🧭 **VoiceGo** |
-| :---: | :---: | :---: |
-| ![63.8% faster](https://img.shields.io/badge/runtime-63.8%25_faster-08A88A?style=for-the-badge) | ![First place](https://img.shields.io/badge/AREA_303-1st_place-F2A900?style=for-the-badge) | ![Third place](https://img.shields.io/badge/ESG_Challenge-3rd_place-8B5CF6?style=for-the-badge) |
-| UAV localization without GNSS | Verifiable AI for commerce | Safer voice-first mobility |
-
-### 🧰 Technical stack
+## Technical stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -51,18 +44,20 @@
 | ⚙️ **Backend & delivery** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-414B61?style=flat-square&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | 🛠️ **Engineering tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-896B17?style=flat-square&logo=linux&logoColor=white) |
 
-### 💼 Experience
+## Experience
 
-#### AI Engineer Intern · [THG Fulfill — Transport Happiness Group](https://thgfulfill.com/vi)
+### AI Engineer Intern · [THG Fulfill — Transport Happiness Group](https://thgfulfill.com/vi)
 
 **Current role** · Cross-border e-commerce fulfillment
 
 Applying AI engineering to a business connecting product sourcing, print-on-demand, dropshipping, shipping, and U.S. warehousing across Vietnam, China, and the United States. Focused on practical uses of AI for data-rich logistics and seller operations.
 
-### 🚀 Selected work
+## Research & Selected Projects
 
-#### 🛰️ POLARIS — localization where GPS cannot help
-*The research code remains private. The manuscript has been submitted to the Journal of Intelligent and Robotic Systems (Q1)*
+<h3>POLARIS — GNSS-Denied UAV Localization<br>
+Q1 Journal Target · Journal of Intelligent &amp; Robotic Systems</h3>
+
+*Research manuscript · Code remains private.*
 
 **Research team lead & algorithm lead** · 7-person team · Jan 2025–present
 
@@ -76,21 +71,27 @@ Leading a computer-vision pipeline for UAV localization in GNSS-denied environme
 
 
 
-#### 🏆 [Gladiators — verifiable AI analytics](https://github.com/hanestuamante/Gladiators)
+<h3><a href="https://github.com/hanestuamante/Gladiators">Gladiators — Verifiable AI Analytics</a><br>
+1st Place · AREA 303 AI for E-Commerce Hackathon 2026</h3>
 
-**Team lead · solution & system architect** · **1st place**, AREA 303 AI for E-Commerce Hackathon · Sep 2026
+**Team Lead · Solution & System Architect** · Sep 2026
 
 Built a natural-language analytics system that checks its answers against business rules. It covered **102 business concepts** and **440 expressions in 3 languages**. In our team's evaluation against a conventional LLM-to-SQL baseline: **nearly 3× answer accuracy**, **over 160× faster execution**, and confidently incorrect answers fell **65.9% → 0%**.
 
 `Python` `FastAPI` `DuckDB` `SQLGlot` `Pandas` `LLM APIs` `Docker`
 
-#### 🧭 [VoiceGo — safer voice-first mobility](https://github.com/Tan28092006/VoiceGo)
+<h3><a href="https://github.com/hungkhuu404/OpenAIxSea-On_the_mic">Grounded Claim Ledger — Adaptive AI for Livestream Compliance</a><br>
+Top 40/400 · Sea × OpenAI Regional Codex Hackathon — Vietnam 2026</h3>
 
-**Infrastructure & safety monitoring developer** · **3rd place**, ESG Innovation Challenge · Aug 2026
+**Team Lead** · 4-person team · Oct 2026
 
-Built route-deviation monitoring and driver–passenger identification for a voice-first mobility concept. The team received approximately **VND 30 million** in development funding.
+Led the development of evidence-grounded verification for Vietnamese livestream commerce, combining **LLM claim extraction, dual-prompt assessment and deterministic rules**. Owned system contracts and guardrails checking product references, source quotations and effective dates.
 
-### 🎓 Beyond the code
+Integrated a **feedback-driven adaptive loop** that proposes rules and tests from reviewer corrections, with automated checks and human approval. Supported **rule quarantine, versioned replay and auditable decision history**.
+
+`Python` `FastAPI` `asyncio` `Pydantic` `SQLite` `SSE` `OpenAI Codex` `pytest`
+
+## Education & Awards
 
 **HCMUT OISP Scholarship 2025–2026** · GPA **3.5/4.0** · IELTS **7.0** · MOS Excel **1000/1000**
 

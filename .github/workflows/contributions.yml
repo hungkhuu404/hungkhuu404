@@ -1,0 +1,46 @@
+name: Update contribution heatmap
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contributions.yml"
+      - ".github/scripts/generate_contributions.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-heatmap
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate static heatmaps from the public calendar
+        run: python3 .github/scripts/generate_contributions.py --user "$PROFILE_USER"
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+
+      - name: Commit only the contribution images when changed
+        run: |
+          git add -- assets/contributions.svg assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution images are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update contribution heatmap"
+          git push origin HEAD:main
