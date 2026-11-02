@@ -55,7 +55,7 @@ Applying AI engineering to a business connecting product sourcing, print-on-dema
 ## Research & Selected Projects
 
 <h3>POLARIS — GNSS-Denied UAV Localization<br>
-Q1 Journal Target · Journal of Intelligent &amp; Robotic Systems</h3>
+Submitting: Defence Technology (rank Q1)</h3>
 
 *Research manuscript · Code remains private.*
 
