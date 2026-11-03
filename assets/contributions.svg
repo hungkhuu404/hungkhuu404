@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="839" height="188" viewBox="0 0 839 188" role="img" aria-labelledby="calendar-title calendar-description">
 <title id="calendar-title">Public GitHub contribution activity for hungkhuu404</title>
-<desc id="calendar-description">Nov 2, 2025 – Nov 2, 2026. Each square is one day from the publicly visible GitHub calendar. Green intensity follows GitHub activity levels zero through four. Source: https://github.com/users/hungkhuu404/contributions. No private repository data is requested.</desc>
+<desc id="calendar-description">Nov 2, 2025 – Nov 3, 2026. Each square is one day from the publicly visible GitHub calendar. Green intensity follows GitHub activity levels zero through four. Source: https://github.com/users/hungkhuu404/contributions. No private repository data is requested.</desc>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" fill="#57606a">
 <text x="0" y="17" font-size="14" font-weight="600">Contribution activity</text>
-<text x="835" y="17" text-anchor="end" font-size="11">Nov 2, 2025 – Nov 2, 2026</text>
+<text x="835" y="17" text-anchor="end" font-size="11">Nov 2, 2025 – Nov 3, 2026</text>
 <text x="0" y="72" font-size="9">Mon</text>
 <text x="0" y="102" font-size="9">Wed</text>
 <text x="0" y="132" font-size="9">Fri</text>
@@ -386,7 +386,8 @@
 <rect x="793" y="123" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-10-30" data-level="0"><title>2026-10-30: GitHub activity level 0 of 4</title></rect>
 <rect x="793" y="138" width="11" height="11" rx="2" fill="#216e39" data-date="2026-10-31" data-level="4"><title>2026-10-31: GitHub activity level 4 of 4</title></rect>
 <rect x="808" y="48" width="11" height="11" rx="2" fill="#40c463" data-date="2026-11-01" data-level="2"><title>2026-11-01: GitHub activity level 2 of 4</title></rect>
-<rect x="808" y="63" width="11" height="11" rx="2" fill="#9be9a8" data-date="2026-11-02" data-level="1"><title>2026-11-02: GitHub activity level 1 of 4</title></rect>
+<rect x="808" y="63" width="11" height="11" rx="2" fill="#216e39" data-date="2026-11-02" data-level="4"><title>2026-11-02: GitHub activity level 4 of 4</title></rect>
+<rect x="808" y="78" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-11-03" data-level="0"><title>2026-11-03: GitHub activity level 0 of 4</title></rect>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" fill="#57606a" font-size="10">
 <text x="697" y="176" text-anchor="end">Less</text>
 <rect x="704" y="167" width="11" height="11" rx="2" fill="#ebedf0"/>
