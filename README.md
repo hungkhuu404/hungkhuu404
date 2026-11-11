@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=00BFA6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Research+%7C+AI+Engineering;Computer+Vision+%7C+Decision+Intelligence;UAV+Localization+%7C+Verified+Analytics" alt="AI Research | AI Engineering | Computer Vision | Decision Intelligence" />
 
-<p><strong>Data Science &amp; AI @ HCMUT</strong> · Ho Chi Minh City, Vietnam · Expected graduation: 2028</p>
+<p><strong>Researcher @ <a href="https://cair.vinuni.edu.vn/">Center for AI Research (CAIR), VinUniversity</a></strong> · <strong>Data Science &amp; AI @ HCMUT</strong><br>Ho Chi Minh City, Vietnam · Expected graduation: 2028</p>
 
 <p><em>From GNSS-denied skies to decision-grade data — I engineer AI where certainty is scarce.</em></p>
 
@@ -46,11 +46,17 @@
 
 ## Experience
 
+### Researcher · [Center for AI Research (CAIR), VinUniversity](https://cair.vinuni.edu.vn/)
+
+**Current role**
+
+Researcher at CAIR, the AI research center of VinUniversity, whose research spans generative AI, human-centric systems, and biomorphic intelligence.
+
 ### AI Engineer Intern · [THG Fulfill — Transport Happiness Group](https://thgfulfill.com/vi)
 
-**Current role** · Cross-border e-commerce fulfillment
+**Sep 2026 – Nov 2026** · Cross-border e-commerce fulfillment
 
-Applying AI engineering to a business connecting product sourcing, print-on-demand, dropshipping, shipping, and U.S. warehousing across Vietnam, China, and the United States. Focused on practical uses of AI for data-rich logistics and seller operations.
+Applied AI engineering to a business connecting product sourcing, print-on-demand, dropshipping, shipping, and U.S. warehousing across Vietnam, China, and the United States. Focused on practical uses of AI for data-rich logistics and seller operations.
 
 ## Research & Selected Projects
 
@@ -95,6 +101,6 @@ Integrated a **feedback-driven adaptive loop** that proposes rules and tests fro
 
 **HCMUT OISP Scholarship 2025–2026** · GPA **3.5/4.0** · IELTS **7.0** · MOS Excel **1000/1000**
 
-Interested in **AI research and AI engineering** opportunities at the intersection of perception, data, and real-world decisions. [Let's talk by email](mailto:giahung170806@gmail.com).
+Interested in **AI research and AI engineering** at the intersection of perception, data, and real-world decisions. [Let's talk by email](mailto:giahung170806@gmail.com).
 
 <div align="center"><sub>Build. Measure. Improve. Repeat.</sub></div>
