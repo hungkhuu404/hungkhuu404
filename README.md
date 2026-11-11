@@ -48,13 +48,13 @@
 
 ### Researcher · [Center for AI Research (CAIR), VinUniversity](https://cair.vinuni.edu.vn/)
 
-**Current role**
+**Sep 2026 – Present** · Part-time, hybrid
 
-Researcher at CAIR, the AI research center of VinUniversity, whose research spans generative AI, human-centric systems, and biomorphic intelligence.
+Researcher at CAIR, the AI research center of VinUniversity, working on computer vision and agentic behavior.
 
 ### AI Engineer Intern · [THG Fulfill — Transport Happiness Group](https://thgfulfill.com/vi)
 
-**Sep 2026 – Nov 2026** · Cross-border e-commerce fulfillment
+**Sep 2026 – Present** · Cross-border e-commerce fulfillment
 
 Applied AI engineering to a business connecting product sourcing, print-on-demand, dropshipping, shipping, and U.S. warehousing across Vietnam, China, and the United States. Focused on practical uses of AI for data-rich logistics and seller operations.
 
