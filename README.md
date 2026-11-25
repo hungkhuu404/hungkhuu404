@@ -23,7 +23,7 @@ I'm Hung (Charles), a third-year **Data Science & AI** student at **Ho Chi Minh 
 
 - 🔬 **Researcher** at the [Center for AI Research (CAIR), VinUniversity](https://cair.vinuni.edu.vn/), working on computer vision and agentic behavior
 - 🛰️ Leading **POLARIS**, a 7-person research project on GNSS-denied UAV localization
-- 🛡️ **Lead & first author** of a Registered Report **submitted to MSR 2027** on security rules and tool feedback in AI coding agents
+- 🛡️ **Lead & first author** of a Registered Report **submitted to MSR 2027** (CORE Rank A conference) on security rules and tool feedback in AI coding agents
 - 🏆 **1st Place** AREA 303 AI for E-Commerce · **Top 10 Vietnam & Global Nominee** NASA Space Apps Challenge · **3rd Place** ESG Innovation Challenge · **Top 10** UIT Data Science Challenge · **Top 40/400** Sea × OpenAI Codex Hackathon
 - 🎓 HCMUT OISP Scholarship 2025–2026 · IELTS 7.0
 
@@ -64,7 +64,7 @@ Estimates a UAV's pose when GNSS is unavailable by matching segmented building f
 <td width="50%" valign="top">
 
 ### 🛡️ From Security Instructions to Secure Code
-<sub>Submitted: <b>MSR 2027 Registered Reports</b> (Stage 1) · Code private</sub>
+<sub>Submitted: <b>MSR 2027 Registered Reports</b> (Stage 1) · <b>CORE Rank A</b> conference · Code private</sub>
 
 **Lead author & first author** · leading a team of 4 student authors, with 2 faculty co-authors · Nov 2026 – Present
 
