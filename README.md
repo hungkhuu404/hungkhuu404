@@ -24,7 +24,7 @@ I'm Hung (Charles), a third-year **Data Science & AI** student at **Ho Chi Minh 
 - 🔬 **Researcher** at the [Center for AI Research (CAIR), VinUniversity](https://cair.vinuni.edu.vn/), working on computer vision and agentic behavior
 - 🛰️ Leading **POLARIS**, a 7-person research project on GNSS-denied UAV localization
 - 🛡️ **Lead & first author** of a Registered Report **submitted to MSR 2027** (CORE Rank A conference) on security rules and tool feedback in AI coding agents
-- 🏆 **1st Place** AREA 303 AI for E-Commerce · **Global Nominee representing Vietnam** at the **NASA International Space Apps Challenge** (Top 10 Vietnam) · **3rd Place** ESG Innovation Challenge · **Top 10** UIT Data Science Challenge · **Top 40/400** Sea × OpenAI Codex Hackathon
+- 🏆 **1st Place** AREA 303 AI for E-Commerce · **Global Nominee representing Vietnam** at the **NASA International Space Apps Challenge** (Top 10 Vietnam) · **3rd Place** ESG Innovation Challenge · **Top 8/70** UIT Data Science Challenge · **Top 40/400** Sea × OpenAI Codex Hackathon
 - 🎓 HCMUT OISP Scholarship 2025–2026 · IELTS 7.0
 
 ---
@@ -90,7 +90,7 @@ Estimates a UAV's pose when GNSS is unavailable by matching segmented building f
 | 🥇 **1st Place** | AREA 303 AI for E-Commerce Hackathon 2026 | [Gladiators](https://github.com/hanestuamante/Gladiators): verifiable AI analytics (team lead) |
 | 🌍 **Global Nominee representing Vietnam** · Top 10 Vietnam | **NASA International Space Apps Challenge 2026** · *Dancing with the SARs* | [Flood Calendar](https://github.com/hungkhuu404/Dancing_with_The_Paddies): NISAR radar flood calendar for rice land (team lead of 6) |
 | 🥉 **3rd Place** | ESG Innovation Challenge 2026 | [VoiceGo](https://github.com/Tan28092006/VoiceGo): voice-first mobility for visually impaired riders (~VND 30M team funding) |
-| 🎯 **Top 10** | UIT Data Science Challenge 2026 | LegalGenerator: Vietnamese legal QA under a 4B-parameter budget (invited system paper) |
+| 🎯 **Top 8 / 70** | UIT Data Science Challenge 2026 | LegalGenerator: Vietnamese legal QA under a 4B-parameter budget (invited system paper) |
 | 🎯 **Top 40 / 400** | Sea × OpenAI Regional Codex Hackathon — Vietnam 2026 | [Grounded Claim Ledger](https://github.com/hungkhuu404/OpenAIxSea-On_the_mic): livestream claim verification (team lead) |
 | 📊 Participant | VinDatathon 2026 | [The 4 Outliers](https://github.com/hungkhuu404/Ecommerece-Time-series-forecasting-): revenue leakage and Revenue/COGS forecasting |
 
@@ -153,7 +153,7 @@ A flood calendar for every 250 m block of flooded rice land, kept by NASA–ISRO
 <td width="50%" valign="top">
 
 ### ⚖️ LegalGenerator
-<sub>🏆 UIT Data Science Challenge 2026 · Top 10 · Co-author, system design</sub>
+<sub>🏆 UIT Data Science Challenge 2026 · Top 8 of 70 · Co-author, system design</sub>
 
 Vietnamese legal question answering with citations, under a 4B-parameter system limit. Invited to write a system description paper.
 
